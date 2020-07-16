@@ -1,0 +1,46 @@
+body {
+  background-image: url("img/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.75);
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgba(255,255,255,1);
+  border-radius: 7px;
+  padding-bottom: 20px;
+}
+
+.row {
+  padding: 20px;
+}
+
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+img {
+  width: 15%;
+  height: 15%;
+}
+
+img#vbucks {
+  height: 30%;
+  width: 30%;
+}
